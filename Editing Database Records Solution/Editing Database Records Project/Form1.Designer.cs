@@ -42,6 +42,7 @@ namespace Editing_Database_Records_Project
             this.btnEdit = new System.Windows.Forms.Button();
             this.btnSave = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -171,11 +172,22 @@ namespace Editing_Database_Records_Project
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
+            // btnAdd
+            // 
+            this.btnAdd.Location = new System.Drawing.Point(72, 139);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(95, 23);
+            this.btnAdd.TabIndex = 13;
+            this.btnAdd.Text = "Add New";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            // 
             // frmPhoneDB
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(421, 249);
+            this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnEdit);
@@ -215,6 +227,7 @@ namespace Editing_Database_Records_Project
         private System.Windows.Forms.Button btnEdit;
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.Button btnAdd;
     }
 }
 
