@@ -1,0 +1,10 @@
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\bin\Debug\Editing Database Records Project.exe.config
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\bin\Debug\Editing Database Records Project.exe
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\bin\Debug\Editing Database Records Project.pdb
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\obj\Debug\Editing Database Records Project.csprojAssemblyReference.cache
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\obj\Debug\Editing_Database_Records_Project.frmPhoneDB.resources
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\obj\Debug\Editing_Database_Records_Project.Properties.Resources.resources
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\obj\Debug\Editing Database Records Project.csproj.GenerateResource.cache
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\obj\Debug\Editing Database Records Project.csproj.CoreCompileInputs.cache
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\obj\Debug\Editing Database Records Project.exe
+C:\Users\dlockwood024548\Documents\Chapter 6\Editing Database Records Solution\Editing Database Records Project\obj\Debug\Editing Database Records Project.pdb

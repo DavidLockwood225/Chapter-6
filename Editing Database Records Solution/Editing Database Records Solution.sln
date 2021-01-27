@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editing Database Records Project", "Editing Database Records Project\Editing Database Records Project.csproj", "{1DA9FD5A-347D-4772-BDB7-8AE855BD9D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA9FD5A-347D-4772-BDB7-8AE855BD9D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA9FD5A-347D-4772-BDB7-8AE855BD9D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA9FD5A-347D-4772-BDB7-8AE855BD9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA9FD5A-347D-4772-BDB7-8AE855BD9D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3AC74F6-BE02-4D51-8DE4-D441A6CE33C6}
+	EndGlobalSection
+EndGlobal
